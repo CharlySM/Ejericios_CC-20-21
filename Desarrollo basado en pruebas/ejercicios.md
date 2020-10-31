@@ -110,7 +110,7 @@ sudo apt install adoptopenjdk-8-hotspot
 sudo apt-get install scala
 ```
 
-Después de esto se ha instaldo la herramienta sbt, para ello se ha usado el siguiente comando.
+Después de esto se ha instalado la herramienta sbt, para ello se ha usado el siguiente comando.
 
 ```
 echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
